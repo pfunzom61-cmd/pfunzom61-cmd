@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pfunzo Mulaudzi 👋</h1>
-<h3 align="center">Final-year BCom Computer & Information Science student | Building across Data & Software</h3>
+<h3 align="center">Final-year Bachelor of Computer & Information Science student | Building across Data & Software</h3>
 
 <p align="center">
 I design and ship end-to-end systems — from ML pipelines to containerised, service-oriented applications.

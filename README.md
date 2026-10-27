@@ -1,103 +1,140 @@
-<h1 align="center">Hi, I'm Pfunzo Mulaudzi 👋</h1>
-<h3 align="center">Final-year Bachelor of Computer & Information Science student | Building across Data & Software</h3>
+# Hi, I'm Pfunzo Mulaudzi 👋
 
-<p align="center">
-I design and ship end-to-end systems — from ML pipelines to containerised, service-oriented applications.
-Currently sharpening my data analytics skills while looking for opportunities to build professionally in 2027.
-</p>
+### Software Engineering | Backend Development | Data Analytics
 
-<br>
+I'm a final-year Bachelor of Computer and Information Science student with an interest in building reliable software systems and using data to solve practical problems.
 
-## 🧰 Stack
+Most of my work has involved backend development, APIs, databases and application architecture. I'm also developing my skills in machine learning and data analytics, with projects that take me from raw data and SQL pipelines through to models and dashboards.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+I'm completing my degree in December 2026 and looking to start my professional career in 2027.
 
-<br>
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & Databases**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Data & Engineering Tools**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏦 [Credit Risk ML Pipeline](https://github.com/pfunzom61-cmd/credit-risk-ml)
-End-to-end credit risk model on the Home Credit Default Risk dataset. Full PostgreSQL staging/clean/feature layers, XGBoost model, SHAP explainability, and a Streamlit dashboard.
 
-`Python` `PostgreSQL` `XGBoost` `SHAP` `Streamlit`
+An end-to-end credit risk modelling project using the Home Credit Default Risk dataset.
+
+- PostgreSQL staging, cleaning and feature layers
+- XGBoost classification
+- SHAP model explainability
+- Streamlit dashboard
+
+`Python` `PostgreSQL` `XGBoost` `SHAP`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚚 [TechMove GLMS](https://github.com/pfunzom61-cmd/techmove-glms)
-Logistics management platform refactored from a monolith into a Service-Oriented Architecture — three independently containerised services, JWT auth, live currency conversion, full CI/CD.
 
-`ASP.NET Core` `SQL Server` `Docker` `xUnit`
+A logistics management system refactored from a monolithic application into a service-oriented architecture.
+
+- Three independently containerised services
+- JWT authentication
+- Currency conversion integration
+- Automated CI/CD and xUnit testing
+
+`C#` `.NET` `SQL Server` `Docker`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 [Savique](https://github.com/pfunzom61-cmd/savique-app)
-Native Android budgeting app with offline-first Room storage synced to Firebase, a gamified spending-streak engine, CSV export, and automated CI/CD with unit tests.
+
+A native Android budgeting application designed to help users track spending and build better financial habits.
+
+- Offline-first data storage using Room
+- Firebase synchronisation
+- Spending streaks and CSV export
+- Automated CI/CD and unit tests
 
 `Kotlin` `MVVM` `Room` `Firebase`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 [Ames Housing Price Predictor](https://github.com/pfunzom61-cmd/HousePriceProg)
-Regression model predicting Ames, Iowa home prices — 92.5% R², ~$15,270 MAE — using Lasso regularisation and engineered features beyond a standard tutorial pipeline.
 
-`Python` `Scikit-Learn` `Pandas`
+A regression project predicting residential property prices using the Ames, Iowa housing dataset.
+
+- Feature engineering
+- Lasso regularisation
+- Reported R² of 92.5%
+- Reported mean absolute error of approximately $15,270
+
+`Python` `Pandas` `Scikit-learn`
 
 </td>
 </tr>
 </table>
 
+---
 
-<br>
+## 🏆 Beyond the Projects
 
-## 📊 GitHub Stats
+- **Momentum AI Hackathon:** Selected for the Top 10 teams in a competition involving more than 1,200 applicants. Contributed to an AI-powered companion using retrieval-augmented generation (RAG) over policy documents.
+- **Academic performance:** 80% average and 18 module distinctions.
+- **Leadership:** Resident Assistant at IIE MSA, supporting a community of more than 200 residents while completing my degree.
+- **Continuous learning:** Working through the Google Advanced Data Analytics Professional Certificate, with a focus on statistics, feature engineering and machine learning.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=pfunzom61-cmd&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfunzom61-cmd&layout=compact&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=pfunzom61-cmd&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub activity statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pfunzom61-cmd&layout=compact&langs_count=6&hide_border=true" alt="Most-used languages across public repositories" />
 </p>
 
-<br>
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pfunzom61-cmd/pfunzom61-cmd/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/pfunzom61-cmd/pfunzom61-cmd/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<br>
+---
 
-## ⚡ A Bit More
-
-- 📚 Currently working through the Google Advanced Data Analytics Professional Certificate
-- 🎓 Graduating in 2026 with an 80% average and 18 module distinctions
-- 🧑‍💼 Resident Assistant managing a large student community — leadership and operations alongside the degree
-
-<br>
-
-## 📫 Reach Me
+## 📫 Get in Touch
 
 <p align="center">
-📧 pfunzom61@gmail.com
+  <a href="mailto:pfunzom61@gmail.com">Email</a> •
+  <a href="https://github.com/pfunzom61-cmd">GitHub</a> •
+  <a href="https://www.linkedin.com/in/pfunzo-mulaudzi/">LinkedIn</a>
 </p>
